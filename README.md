@@ -1,4 +1,4 @@
-# 🎛️ zzluxora v7.0.0
+﻿# 🎛️ zzluxora v7.0.0
 
 > **Native PySide6 (Qt6) + Art-Net DMX512 Lighting Control with Audio-Reactive Scene Generation.**  
 > An audio engineer's lighting desk at 3 AM — grandMA3 ergonomics meets QLC+ agility. Edisi rilis baseline skripsi dengan tema visual *Emerald Green Accent* (`#2ecc71`) dan integrasi Windows Inno Setup Installer.
@@ -179,4 +179,4 @@ pytest tests/ -v
 ## 📜 8. Lisensi & Hak Cipta
 
 Proyek ini dilisensikan di bawah **MIT License**.  
-Hak Cipta (c) 2026 **Andreas Restuawanta Christwara ([@zzdree](https://github.com/zzdree))** — Universitas Negeri Semarang.
+Hak Cipta (c) 2026 **Andreas Restuawanta Christwara ([@zzdree](https://github.com/zzdevxx))** — Universitas Negeri Semarang.
