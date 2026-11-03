@@ -137,7 +137,7 @@ zzluxora_v7/
 ### Langkah Menjalankan:
 1. **Clone Repositori:**
    ```powershell
-   git clone https://gitlab.com/zzdree/zzluxora_v7.git
+   git clone https://gitlab.com/zzdevxx/zzluxora_v7.git
    cd zzluxora-v7
    ```
 
@@ -179,4 +179,4 @@ pytest tests/ -v
 ## 📜 8. Lisensi & Hak Cipta
 
 Proyek ini dilisensikan di bawah **MIT License**.  
-Hak Cipta (c) 2026 **Andreas Restuawanta Christwara ([@zzdree](https://github.com/zzdevxx))** — Universitas Negeri Semarang.
+Hak Cipta (c) 2026 **Andreas Restuawanta Christwara ([@zzdevxx](https://github.com/zzdevxx))** — Universitas Negeri Semarang.
