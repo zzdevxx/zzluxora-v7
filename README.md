@@ -1,4 +1,12 @@
-﻿# 🎛️ zzluxora v7.0.0
+﻿> ## STATUS ARSIP: TIDAK AKTIF
+>
+> Repository ini berstatus arsip dan tidak aktif dikembangkan. Versi ini sudah digantikan oleh zzluxora-v10, yang menjadi lanjutan resmi lini produk ZZLUXORA.
+>
+> Isi repository ini tidak diubah dan tidak ada rilis atau pemeliharaan lanjutan. Repository tetap utuh sebagai arsip kode.
+
+---
+
+# 🎛️ zzluxora v7.0.0
 
 > **Native PySide6 (Qt6) + Art-Net DMX512 Lighting Control with Audio-Reactive Scene Generation.**  
 > An audio engineer's lighting desk at 3 AM — grandMA3 ergonomics meets QLC+ agility. Edisi rilis baseline skripsi dengan tema visual *Emerald Green Accent* (`#2ecc71`) dan integrasi Windows Inno Setup Installer.
